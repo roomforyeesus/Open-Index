@@ -22,3 +22,6 @@ The first crawl can take a while. Open Index waits between requests to each webs
 - It indexes HTML text. It does not run JavaScript, parse PDFs, or access pages that require a login.
 - The app binds to `127.0.0.1`, so it is available only on this computer.
 - Search ranking is a simple BM25 baseline and can be improved as the project grows.
+
+
+Buy me a coffee? 
